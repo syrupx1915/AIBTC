@@ -1,6 +1,9 @@
 # AIBTC
 多线程锄头 可以跑满CPU
 风险自测
+git clone https://github.com/M0103Y/AIBTC.git
+
+cd AIBTC
 
 安装npm
 sudo apt install npm -y
